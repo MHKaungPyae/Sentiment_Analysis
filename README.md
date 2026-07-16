@@ -7,7 +7,7 @@ A DistilBERT-based sentiment classification model fine-tuned on customer reviews
 This model is **not production-ready**. It was built for:
 
 - **Educational purposes** — understanding how DistilBERT fine-tuning works on domain-specific text
-- **App prototyping** — testing how a sentiment model would behave inside a [review analysis application](../) we developed
+- **App prototyping** — testing how a sentiment model would behave inside a [TripNest Application](https://github.com/linmyatoo/TripNest_admin) we developed
 
 The model is trained on a small dataset (~4,450 samples) and may misclassify neutral or sarcastic reviews. Do not rely on it for critical or high-stakes use cases.
 
